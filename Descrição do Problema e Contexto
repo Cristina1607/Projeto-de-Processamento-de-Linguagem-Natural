@@ -1,0 +1,3 @@
+Este projeto visa desenvolver um modelo de classificação de texto para categorizar reclamações de consumidores em diferentes tipos de produtos. O sistema automatizado ajuda empresas a gerenciar e classificar reclamações, facilitando o rastreamento e análise de feedback dos clientes.
+
+O conjunto de dados inclui reclamações de consumidores, cada uma com um texto descritivo e a categoria de produto associada. Os dados são fornecidos em um arquivo CSV acessível através do Google Drive.
