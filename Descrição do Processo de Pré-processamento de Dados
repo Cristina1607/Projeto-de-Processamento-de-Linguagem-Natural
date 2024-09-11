@@ -1,0 +1,5 @@
+O pré-processamento dos dados é essencial para preparar o texto para o modelo de aprendizado de máquina. As etapas incluem:
+ 1. Remoção de valores ausentes: Exclusão ou imputação de dados faltantes.
+ 2. Limpeza de texto: Remoção de caracteres especiais, números e stop words; conversão de texto para minúsculas.
+ 3. Tokenização: Divisão do texto em palavras ou tokens.
+ 4. Vetorização: Conversão dos tokens em representações numéricas, como contagens de palavras ou embeddings.
