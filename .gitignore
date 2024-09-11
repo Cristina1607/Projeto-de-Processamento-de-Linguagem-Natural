@@ -1,0 +1,9 @@
+# Ignorar arquivos e pastas desnecessárias
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.csv
+*.ipynb_checkpoints/
