@@ -1,0 +1,4 @@
+A análise exploratória dos dados (EDA) é realizada para entender a estrutura e características dos dados. As principais etapas incluem:
+ - Distribuição das categorias de produtos: Identificação da frequência de cada categoria de produto no conjunto de dados.
+ - Distribuição de palavras: Análise das palavras mais comuns nas reclamações e como elas estão distribuídas entre as categorias.
+ - Visualizações: Geração de gráficos e tabelas para ilustrar padrões e insights dos dados.
