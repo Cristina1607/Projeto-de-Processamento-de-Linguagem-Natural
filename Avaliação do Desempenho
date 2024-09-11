@@ -1,0 +1,5 @@
+O desempenho do modelo é avaliado usando as seguintes métricas:
+ - Acurácia: Proporção de classificações corretas.
+ - Matriz de Confusão: Tabela que mostra o desempenho do modelo em cada classe.
+ - Relatório de Classificação: Inclui precisão, recall e F1-score para cada categoria de produto.
+Além disso, são identificadas as palavras mais importantes para a classificação de cada categoria e avaliada a capacidade do modelo de generalizar para novos dados.
