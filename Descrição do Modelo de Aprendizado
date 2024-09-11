@@ -1,0 +1,4 @@
+O modelo de classificação é treinado usando o algoritmo Naive Bayes, adequado para tarefas de categorização de texto. As principais etapas incluem:
+ 1. Divisão dos dados: Separação dos dados em conjuntos de treino e teste.
+ 2. Treinamento do modelo: Ajuste dos parâmetros do modelo com os dados de treino.
+ 3. Avaliação do modelo: Teste do modelo com dados não vistos para verificar seu desempenho.
